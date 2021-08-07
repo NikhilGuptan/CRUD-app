@@ -1,0 +1,30 @@
+
+[
+    {
+        "id": 100,
+        "first_name": "Nikhil",
+        "last_name": "Gupta",
+        "email": "ydalesco0@test.com",
+        "gender": "Genderfluid",
+        "ip_address": "0.0.0",
+        "age": 65
+    },
+    {
+        "id": 200,
+        "first_name": "Ram",
+        "last_name": "Gupta",
+        "email": "ydalesco0@test.com",
+        "gender": "Genderfluid",
+        "ip_address": "0.0.0",
+        "age": 65
+    },
+    {
+        "id": 300,
+        "first_name": "Rahul",
+        "last_name": "Gupta",
+        "email": "ydalesco0@test.com",
+        "gender": "Genderfluid",
+        "ip_address": "0.0.0",
+        "age": 65
+    }
+]
